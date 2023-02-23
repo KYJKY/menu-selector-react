@@ -1,0 +1,16 @@
+@import url(/public/css/common/reset.css);
+@import url(/public/css/common/font.css);
+
+footer {
+    width: 100%;
+    text-align: center;
+    padding: 20px 0 10px;
+    font-size: 0.5rem;
+    line-height: 0.9rem;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+footer p {
+    color: #d6d6d6;
+}

@@ -1,0 +1,35 @@
+header {
+    width: 100%;
+    padding-bottom: 40px;
+}
+
+header .title {
+    font-size: 2.4rem;
+    text-align: center;
+    color: whitesmoke;
+    font-family: BinggraeSamanco-Bold;
+}
+
+header nav ul { 
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+header nav ul li img {
+    width: 15%;
+    padding: 1rem;
+}
+
+header nav ul li:first-child{
+    text-align: left;
+}
+
+header nav ul li:last-child{
+    text-align: right;
+}
+
+header nav ul li img {
+    cursor: pointer;
+}
+
