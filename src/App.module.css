@@ -1,3 +1,9 @@
+html {
+    font-family: establishRoomNo703OTF;
+    font-size: 16px;
+    background-color: #092d4c;
+}
+
 .box-menu {
     width: 100%;
     display: flex;
